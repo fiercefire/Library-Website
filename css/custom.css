@@ -119,10 +119,10 @@ body {
 }
 
 .body1 {
-  border: 3px solid #72668a;
+  border: 10px solid #72668a;
   border-radius: 8px;
   padding: 1rem;
-  margin: 2rem auto;
+  margin: 0 2rem 2rem 2rem;
   background-color: #1c2e14;
 }
 
