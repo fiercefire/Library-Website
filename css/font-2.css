@@ -1,0 +1,7 @@
+/* define font-face */
+@font-face {
+    font-family: 'Gorton Perfected';
+		url('https://github.com/fiercefire/Library-Website/blob/main/fonts/GortonPerfectedVF.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}

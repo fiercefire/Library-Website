@@ -1,0 +1,17 @@
+<!-- Site build date: {{ "now" | date: "%FT%T%z" }} -->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+
+  <!-- dark theme using DarkReader -->
+  <script src="//unpkg.com/darkreader@4.9.40/darkreader.js"></script>
+  <script type="text/javascript">
+    DarkReader.setFetchMethod(window.fetch); // Fix to remedy CORS errors in chrome console
+    //DarkReader.enable();
+    DarkReader.auto( {brightness: 150, contrast: 90, sepia: 10} );
+  </script>
+  
+</head>

@@ -1,0 +1,96 @@
+---
+title: About Me
+layout: default
+---
+<!DOCTYPE html>
+
+<html lang="en">
+  
+<head>
+  
+  <meta charset="UTF-8" />
+  <link rel="stylesheet" href="css/font.css" type="text/css">
+
+<!--Maxwell Css -->
+  <style>
+    body {
+      margin: 0;
+      overflow: hidden;
+    }
+    #maxwell {
+      position: absolute;
+      width: 100px;
+      height: 90px;
+    }
+  </style>
+
+<!-- Enables Scrolling -->
+  <style>
+    html, body {
+      height: 100%;
+      margin: 0;
+      padding: 0;
+      overflow: auto;
+    }
+  </style>
+  
+</head>
+  
+<body>
+  <div class="wrapper">
+  <p>PIKMIN!</p>
+  <img src="images/tbh-creature-autism-creature.gif" alt="Yippee!" />
+  <img src="images/anteater-sniffing.gif" alt="Bumi the Giant Anteater Sniffs You" />
+  <img src="images/grimmi.jpg" alt="Grimmi the Vtuber" />
+  <img src="images/leToucan.png" alt="Le Toucan has Arrived" />
+  <img src="images/nimi-nightmare-baku.gif" alt="Tapir Strut" />
+
+  <img id="maxwell" src="images/maxwell-cat.gif" alt="Maxwell the cat spining" />
+<!--Javascript to make Maxwell the Cat bounce around the screen -->
+  <script>
+    const logo = document.getElementById('maxwell');
+    const speed = 1;
+    let x = Math.random() * (window.innerWidth - logo.clientWidth);
+    let y = Math.random() * (window.innerHeight - logo.clientHeight);
+    let dx = speed;
+    let dy = speed;
+
+    function moveLogo() {
+      x += dx;
+      y += dy;
+
+    const maxX = window.innerWidth - logo.clientWidth;
+    const maxY = window.innerHeight - logo.clientHeight;
+
+    // Horizontal bounce
+      if (x <= 0) {
+      x = 0;
+      dx = -dx;
+      } else if (x >= maxX) {
+      x = maxX;
+      dx = -dx;
+      }
+
+    // Vertical bounce
+      if (y <= 0) {
+      y = 0;
+      dy = -dy;
+      } 
+      else if (y >= maxY) {
+      y = maxY;
+      dy = -dy;
+      }
+
+
+      logo.style.left = x + 'px';
+      logo.style.top = y + 'px';
+
+    requestAnimationFrame(moveLogo);
+    }
+
+    moveLogo();
+  </script>
+  </div>
+</body>
+  
+</html>

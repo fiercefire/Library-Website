@@ -1,0 +1,20 @@
+/* call font-face */
+@import url('https://github.com/fiercefire/Library-Website/blob/main/css/font-2.css');
+/* apply font */
+body {
+	font-family: 'Gorton Perfected';
+	font-weight: normal;
+	font-style: normal;
+}
+
+.post-content e-content {
+	font-family: 'Gorton Perfected';
+	font-weight: normal;
+	font-style: normal;
+}
+
+p {
+	font-family: 'Gorton Perfected';
+	font-weight: normal;
+	font-style: normal;
+}

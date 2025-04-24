@@ -1,0 +1,104 @@
+h3 {
+  text-align: center;
+}
+
+.main-content {
+  flex: 1;
+  bottom-padding: 2.5rem;
+}
+
+.sidebar-left {
+  position: absolute;
+  top: 61.94px;
+  padding-top: 0.5em;
+  left: 0;
+  /* Min: 200px, Prefers: 25vw, Max: 400px */
+  width: clamp(200px, 15vw, 400px);
+  height: 1601px; /* Ensure it spans the full height of the page */
+  z-index: 10; /* Keeps it above the main content */
+  overflow-y: auto;        /* Add vertical scroll when needed */
+  /* Hide scrollbar */
+  scrollbar-width: none; /* Firefox */
+  -ms-overflow-style: none; /* IE/Edge */
+}
+
+.sidebar-left::-webkit-scrollbar {
+  width: 0; /* Chrome, Safari */
+}
+
+.sidebar-left:hover {
+  /* Show scrollbar on hover */
+  scrollbar-width: thin;
+}
+.sidebar-left:hover::-webkit-scrollbar {
+  width: 8px;
+}
+.sidebar-left:hover::-webkit-scrollbar-thumb {
+  background-color: rgba(0, 0, 0, 0.2);
+  border-radius: 4px;
+}
+
+.sidebar-left table {
+  width: 100%;        /* Take up full width of the parent */
+  table-layout: fixed; /* Optional: cells won't stretch content */
+  border-collapse: collapse; /* Removes spacing between borders */
+}
+
+.sidebar-left ul li {
+  padding: 0;
+  margin: 0;
+  width: 100%;               /* match parent's width */
+  box-sizing: border-box;    /* include padding/border in width calc */
+}
+
+/* Hide sidebar on small screens */
+@media (max-width: 1084px) {
+  .sidebar-left {
+    display: none !important;
+  }
+  .container {
+    flex-direction: column;
+  }
+}
+    
+@font-face {
+  font-family: 'Gorton Perfected'; /* Use any name */
+  src: url('../fonts/GortonPerfectedVF.ttf') format('truetype'),
+       url('../fonts/GortonPerfectedVF.woff') format('woff'),
+       url('../fonts/GortonPerfectedVF.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Apply it to the body or other elements */
+body {
+  font-family: 'Gorton Perfected', sans-serif;
+}
+
+.post-content {
+  font-family: 'Gorton Perfected', !important;
+}
+  
+.wrapper {
+    max-width: -webkit-calc(800px - (30px * 2));
+    max-width: calc(800px - (30px * 2));
+    margin-right: auto;
+    padding-right: 30px;
+    padding-left: 30px
+}
+
+@media screen and (max-width: 800px) {
+    .wrapper {
+        max-width:-webkit-calc(800px - (30px));
+        max-width: calc(800px - (30px));
+        padding-right: 15px;
+        padding-left: 15px
+    }
+}
+
+.site-header {
+    border-top: 5px solid #424242;
+    border-bottom: 1px solid #e8e8e8;
+    min-height: 55.95px;
+    position: relative;
+}
