@@ -103,3 +103,22 @@ body {
     min-height: 55.95px;
     position: relative;
 }
+
+.post-header {
+	background-color: #374971;
+}
+
+.body1 {
+  border: 1px solid #72668a;
+  border-radius: 8px;
+  padding: 1rem;
+  margin: 2rem auto;
+  background-color: #1c2e14;
+}
+
+.body1 p {
+  color: #ccb0be;
+  line-height: 1.6;
+  letter-spacing: 0.02em;
+  word-spacing: 0.1em;
+?
