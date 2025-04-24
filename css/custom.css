@@ -72,7 +72,7 @@ h3 {
 
 /* Apply it to the body or other elements */
 body {
-  font-family: 'Gorton Perfected', sans-serif;
+  font-family: 'Gorton Perfected', Helvetica, Arial, sans-serif;
 }
 
 .post-content {
