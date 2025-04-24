@@ -2,6 +2,10 @@ h3 {
   text-align: center;
 }
 
+body {
+ background-color: #707878;
+}
+
 .main-content {
   flex: 1;
   bottom-padding: 2.5rem;
@@ -121,4 +125,4 @@ body {
   line-height: 1.6;
   letter-spacing: 0.02em;
   word-spacing: 0.1em;
-?
+}
