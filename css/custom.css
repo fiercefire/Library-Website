@@ -2,16 +2,6 @@ h3 {
   text-align: center;
 }
 
-.page-content {
- background-color: #707878;
-}
-
-header,
-footer {
-  background-color: #000000;
-  color #FFFFFF;
-}
-
 .main-content {
   flex: 1;
   bottom-padding: 2.5rem;
@@ -105,32 +95,4 @@ body {
         padding-right: 10px;
         padding-left: 10px
     }
-}
-
-.site-header {
-    border-top: 5px solid #424242;
-    border-bottom: 1px solid #e8e8e8;
-    min-height: 55.95px;
-    position: relative;
-}
-
-.post-header {
-  background-color: #374971;
-  border: 1 px solid #000000; 
-  border-radius: 8px;
-}
-
-.body1 {
-  border: 10px solid #72668a;
-  border-radius: 8px;
-  padding: 1rem;
-  margin: 0 0 2rem 0;
-  background-color: #1c2e14;
-}
-
-.body1 p {
-  color: #ccb0be;
-  line-height: 1.6;
-  letter-spacing: 0.02em;
-  word-spacing: 0.1em;
 }
