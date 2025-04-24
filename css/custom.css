@@ -126,7 +126,7 @@ body {
   border: 10px solid #72668a;
   border-radius: 8px;
   padding: 1rem;
-  margin: 0 2rem 2rem 2rem;
+  margin: 0 2rem auto;
   background-color: #1c2e14;
 }
 
