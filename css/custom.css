@@ -52,6 +52,10 @@ h1, h2, h3, h4, h5, h6, figcaption, span {
   bottom-padding: 2.5rem;
 }
 
+.main-content .markdown-body iframe {
+   margin-top: 1em;
+}
+
 .wrapper {
   max-width: -webkit-calc(800px - (20px * 2));
   max-width: calc(800px - (20px * 2));
