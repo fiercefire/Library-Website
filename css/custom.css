@@ -1,3 +1,20 @@
+:root {
+  --bg-color: #ffffff;
+  --text-color: #000000;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg-color: #121212;
+    --text-color: #e0e0e0;
+  }
+}
+
+body {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+}
+
 h3 {
   text-align: center;
 }
@@ -102,15 +119,15 @@ body {
 }
 
 .body1 {
-  border: 10px solid #72668a !important;
+  border: 10px solid #72668a;
   border-radius: 8px;
   padding: 1rem;
   margin: 0 0 2rem 0;
-  background-color: #1c2e14 !important;
+  background-color: #1c2e14;
 }
 
 .body1 p {
-  color: #ccb0be !important;
+  color: #ccb0be;
   line-height: 1.6;
   letter-spacing: 0.02em;
   word-spacing: 0.1em;
