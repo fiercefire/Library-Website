@@ -105,6 +105,12 @@ h1, h2, h3, h4, h5, h6, figcaption, span {
   z-index: 10;
   overflow-y: auto;
 
+.sidebar-left recent-posts a {
+   color: #A4B9DA;
+   text-decoration: none; /* optional, if you want to remove the underline */
+   transition: color 0.2s ease-in-out;
+}
+   
   /* Hide scrollbar */
   scrollbar-width: none;       /* Firefox */
   -ms-overflow-style: none;    /* IE/Edge */
