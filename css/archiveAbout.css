@@ -1,0 +1,20 @@
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #1a1a1a;
+    color: #ddd;
+  }
+
+  a {
+    color: #99ccff;
+  }
+
+  img {
+    filter: brightness(90%) contrast(110%);
+  }
+
+  /* Optional: invert only light images */
+  img[src$=".png"],
+  img[src$=".jpg"] {
+    filter: invert(0.05); /* Tweak to taste */
+  }
+}
