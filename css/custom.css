@@ -105,7 +105,7 @@ h1, h2, h3, h4, h5, h6, figcaption, span {
   z-index: 10;
   overflow-y: auto;
 
-main .container .sidebar-left .recent-posts {
+.recent {
    background-color: #1c2e14;
 }
    
