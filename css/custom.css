@@ -171,8 +171,6 @@ td {
   transition: color 0.2s ease-in-out;
 }
 
-.post_navi-item a:hover, .navi_prev a:hover {
-  color: #66aaff;
-  text-decoration: underline; /* optional, adds emphasis on hover */
+.site-header .wrapper .site-title {
+   color: #1c2e14;
 }
-   
