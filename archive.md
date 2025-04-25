@@ -3,7 +3,7 @@ layout: page
 title: Blog Archive
 ---
 <link rel="stylesheet" href="css/font.css" type="text/css">
-<link rel="stylesheet" href="css/archiveAbout.css">
+<link rel="stylesheet" href="css/custom.css">
 
 <div class="wrapper">
 {% for tag in site.tags %}
