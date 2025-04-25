@@ -83,11 +83,11 @@ h1, h2, h3, h4, h5, h6, figcaption, span {
   border-radius: 8px;
   padding: 1rem;
   margin: 0 0 2rem 0;
-  background-color: #1c2e14;
+  background-color: #ccb0be;
 }
 
 .body1 p, .body1 ul li, body ol li {
-  color: #ccb0be;
+  color: #1c2e14;
   line-height: 1.6;
   letter-spacing: 0.02em;
   word-spacing: 0.1em;
@@ -106,7 +106,9 @@ h1, h2, h3, h4, h5, h6, figcaption, span {
   overflow-y: auto;
 
 .recent {
-   background-color: #1c2e14;
+   border: 1px solid #000;
+   border-radius: 8px;
+   background-color: #ccb0be;
 }
    
   /* Hide scrollbar */
