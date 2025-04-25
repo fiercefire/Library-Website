@@ -90,15 +90,6 @@ figcaption {
   -ms-overflow-style: none;    /* IE/Edge */
 }
 
-table tr,
-table tr:nth-child(even),
-table tr:nth-child(odd),
-table li,
-table li:nth-child(even),
-table li:nth-child(odd) {
-  background-color: #000 !important;
-}
-
 .sidebar-left::-webkit-scrollbar {
   width: 0;                    /* Chrome, Safari */
 }
@@ -140,6 +131,18 @@ table li:nth-child(odd) {
   }
 }
 
+table tr,
+table tr:nth-child(even),
+table tr:nth-child(odd),
+table li,
+table li:nth-child(even),
+table li:nth-child(odd) {
+  background-color: #000 !important;
+}
+
+td {
+   color:#FFF
+}
 /* ----------------------------------
    Custom Block: .body1-5
 ---------------------------------- */
