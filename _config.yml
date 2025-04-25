@@ -5,13 +5,7 @@ email: "12orbmine@gmail.com"
 
 theme: minima
 
-kramdown:
-  syntax_highlighter_opts:
-    disable: true
-    
 plugins:
-  - jekyll-feed
-  - jekyll-sitemap
 
 titles_from_headings:
   strip_title: true
@@ -24,6 +18,6 @@ defaults:
     values:
       tags: Other
 
-home_post_limit: 7
+home_post_limit: 10
 
 timezone: America/Los_Angeles
