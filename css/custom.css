@@ -41,12 +41,12 @@ a:hover {
 }
 
 .page-content .wrapper .post .post-header .post-title {
-   color: #f765af;
+   color: #FFF;
 }
 
 .page-content .wrapper .post .post-header .post-meta .dt-published,
 .page-content .wrapper .post .post-header .post-meta span {
-   color: #f765af
+   color: #FFF;
 }
 
 body {
