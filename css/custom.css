@@ -87,17 +87,7 @@ h1, h2, h3, h4, h5, h6, figcaption, span {
   height: 1601px;
   z-index: 10;
   overflow-y: auto;
-
-.recent {
-   border: 1px solid #000;
-   border-radius: 8px;
-   background-color: #ccb0be;
-}
-
-.recent h3 {
-   color: #000:
-}
-   
+ 
   /* Hide scrollbar */
   scrollbar-width: none;       /* Firefox */
   -ms-overflow-style: none;    /* IE/Edge */
