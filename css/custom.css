@@ -159,4 +159,9 @@ table li:nth-child(odd) {
 td {
    color:#FFF
 }
-
+/* ----------------------------------
+   Footer
+---------------------------------- */
+.site-footer, h-card {
+   background-color: #FFF;
+}
