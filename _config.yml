@@ -2,19 +2,14 @@ title: "Exploring Libraries/Archives"
 author: "Fiercefire"
 email: "12orbmine@gmail.com"
 
-
 theme: minima
 
 plugins:
 
-titles_from_headings:
-  strip_title: true
-  collections: true
-
 defaults:
   - scope:
       path: "https://fiercefire.github.io/Library-Website"
-      type: post
+      type:
     values:
       tags: Other
 
