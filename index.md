@@ -40,12 +40,14 @@ layout: home
         <td>Misc</td>
       </tr>
     </table>
+    <div class="recent">
     <h3>Recent Posts</h3>
       <ul class="recent-posts">
           {% for post in site.posts limit:7 %}
           <li><a href="{{ post.url | relative_url }}">{{ post.date | date: "%B %d, %Y" }} - {{ post.title }}</a></li>
           {% endfor %}
       </ul>
+    </div>
   </aside>
 </div>
 
