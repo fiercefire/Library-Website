@@ -166,10 +166,10 @@ td {
 }
 
 .site-header .wrapper .site-title,
-.site-header .wrapper .site-nav {
+.site-header .wrapper .site-nav .trigger .page-link {
    color: #FFF;
 }
 
 .site-footer .wrapper .footer-col-wrapper .footer-col-1 .contact-list .p-name {
-   color: #72668a;
+   color: #ccb0be;
 }
