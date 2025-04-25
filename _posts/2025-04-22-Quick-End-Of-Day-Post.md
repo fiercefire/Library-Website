@@ -4,6 +4,7 @@ title: "Quick End of Day Post"
 tag: Site Progress
 date: 2025-04-22 22:30:00-08:00 
 ---
+---
 Another quick post about me stumbling around trying to build this site up. Yes, I am still adding more and more posts to test the limit on how many recent posts will show up on the 
 home page sidebar. It should be 7, but I will probably increase the limit in the future. Anyway, no one should be reading these posts or even know about this site but if you are, 
 you'll notice I scrpaped the left and right side sidebars in favor of a just a leftside sidebar. It has both the map legend and the recent posts in it. Also, the sidebar was going 
