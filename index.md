@@ -54,7 +54,7 @@ layout: home
 <div class="markdown-body wrapper">
 <iframe src="https://www.google.com/maps/d/u/3/embed?mid=1DcUqcTd055bTL4YQhc_bqsMnds2OYlQ&ehbc=2E312F&noprof=1" width="100%" height="600"></iframe>
 <h2>Blog Introduction c:</h2>
----
+
 <p>Hey all! Welcome to the page. In all honesty, this site is really only for myself; it's going to be more of a diary than a blog (lotta rambling basically). But, if you are here please enjoy.</p> 
   
 <p>The main and original purpose was to use this simply as a way to house that map you see embedded above this introduction. As a way to visualize the libraries/archives 
