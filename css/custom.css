@@ -164,3 +164,14 @@ td {
 .site-header {
    background-color: #000;
 }
+
+.mail a {
+  color: #99ccff;
+  text-decoration: none; /* optional, if you want to remove the underline */
+  transition: color 0.2s ease-in-out;
+}
+
+.mail a:hover {
+  color: #66aaff;
+  text-decoration: underline; /* optional, adds emphasis on hover */
+}
