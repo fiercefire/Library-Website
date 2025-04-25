@@ -21,6 +21,11 @@ I wanted to even out the amount of markers for each layer. My Maps limits me to 
 will be merged into one super layer. I also added a small smattering of various other instituations that I already visited in the past. I will try to revisist places so I can refresh 
 myself before I write a blog post about them.
 
+<figure>
+  <img src="/Library-Website/images/CLA-Library-Systems-Map.jpeg">
+  <figcaption>Source: California State Library</figcaption>
+</figure>
+
 Final update for now is a fun one. I have decided to the get the Olympus OM-1n and I am paring it with the Olympus Zuiko 50mm f/1.8 Manual Focus Lens. So Excited! When I take photos 
 I will need to use the film roll up and then get it developed. So, I will either need to delay posts or just write the post and update them with the photos later? I'm leaning towards 
 the latter option currently.
