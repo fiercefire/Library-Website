@@ -110,6 +110,10 @@ h1, h2, h3, h4, h5, h6, figcaption, span {
    border-radius: 8px;
    background-color: #ccb0be;
 }
+
+.recent h3 {
+   color: #000:
+}
    
   /* Hide scrollbar */
   scrollbar-width: none;       /* Firefox */
