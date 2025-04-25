@@ -54,7 +54,8 @@ layout: home
 <div class="markdown-body wrapper">
 <iframe src="https://www.google.com/maps/d/u/3/embed?mid=1DcUqcTd055bTL4YQhc_bqsMnds2OYlQ&ehbc=2E312F&noprof=1" width="100%" height="600"></iframe>
 <h2>Blog Introduction c:</h2>
-<p>Hey all! Welcome to the page. In all honesty, this site is really only for myself; it's going to be more of a diary than a blog (lotta rambling basically). But, if you are here please enjoy.</p><br>  
+---
+<p>Hey all! Welcome to the page. In all honesty, this site is really only for myself; it's going to be more of a diary than a blog (lotta rambling basically). But, if you are here please enjoy.</p> 
   
 <p>The main and original purpose was to use this simply as a way to house that map you see embedded above this introduction. As a way to visualize the libraries/archives 
 in California and ones I visit outside of California. Here are some things to expect from my posts:</p>   
@@ -69,7 +70,7 @@ in California and ones I visit outside of California. Here are some things to ex
   <li>I am very likely to take the opportunity in my blog posts to highlight some history about the libraries/archives I visit.</li>
   <li>In the future I may include some outstanding food I eat; both in a short blog post and in the central map of the site (all food being grouped in its own layer).</li>
   <li>Finally, if I go on any major trips, solo or otherwise, I may make a short blog post about them with a bunch of photos. Maybe.</li>
-</ul><br>
+</ul>
   
 <p>I have to mention the wonderful font you are hopefully seeing. It is called "Gorton Perfected". I have access to this from a KickStarter campaign I backed years ago. I love it and 
 hopefully you do too. Man, this is way longer than I expected. I will be updating this in the future if anything changes or I think of anything new.</p>
