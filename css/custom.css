@@ -79,11 +79,11 @@ h1, h2, h3, h4, h5, h6, figcaption, span {
    Custom Block: .body1-5
 ---------------------------------- */
 .body1 {
-  border: 10px solid #72668a;
+  border: 10px solid #ccb0be;
   border-radius: 8px;
   padding: 1rem;
   margin: 0 0 2rem 0;
-  background-color: #ccb0be;
+  background-color: #72668a;
 }
 
 .body1 p, .body1 ul li, body ol li {
