@@ -29,6 +29,12 @@ a:hover {
   font-style: normal;
 }
 
+post.title {
+   color: #ccb0be;
+}
+
+
+   
 body {
   font-family: 'Gorton Perfected', Helvetica, Arial, sans-serif;
 }
