@@ -1,3 +1,6 @@
+/* ----------------------------------
+   Dark Mode Theme Styles
+---------------------------------- */
 @media (prefers-color-scheme: dark) {
   body {
     background-color: #2a2a2a;
@@ -19,75 +22,11 @@
   }
 }
 
-h3 {
-  text-align: center;
-}
-
-.main-content {
-  flex: 1;
-  bottom-padding: 2.5rem;
-}
-
-figcaption {
-  color:#FFFFFF;
-}
-
-.sidebar-left {
-  position: absolute;
-  top: 61.94px;
-  padding-top: 0.5em;
-  left: 0;
-  /* Min: 200px, Prefers: 25vw, Max: 400px */
-  width: clamp(200px, 15vw, 400px);
-  height: 1601px; /* Ensure it spans the full height of the page */
-  z-index: 10; /* Keeps it above the main content */
-  overflow-y: auto;        /* Add vertical scroll when needed */
-  /* Hide scrollbar */
-  scrollbar-width: none; /* Firefox */
-  -ms-overflow-style: none; /* IE/Edge */
-}
-
-.sidebar-left::-webkit-scrollbar {
-  width: 0; /* Chrome, Safari */
-}
-
-.sidebar-left:hover {
-  /* Show scrollbar on hover */
-  scrollbar-width: thin;
-}
-.sidebar-left:hover::-webkit-scrollbar {
-  width: 8px;
-}
-.sidebar-left:hover::-webkit-scrollbar-thumb {
-  background-color: rgba(0, 0, 0, 0.2);
-  border-radius: 4px;
-}
-
-.sidebar-left table {
-  width: 100%;        /* Take up full width of the parent */
-  table-layout: fixed; /* Optional: cells won't stretch content */
-  border-collapse: collapse; /* Removes spacing between borders */
-}
-
-.sidebar-left ul li {
-  padding: 0;
-  margin: 0;
-  width: 100%;               /* match parent's width */
-  box-sizing: border-box;    /* include padding/border in width calc */
-}
-
-/* Hide sidebar on small screens */
-@media (max-width: 1084px) {
-  .sidebar-left {
-    display: none !important;
-  }
-  .container {
-    flex-direction: column;
-  }
-}
-    
+/* ----------------------------------
+   Typography and Font
+---------------------------------- */
 @font-face {
-  font-family: 'Gorton Perfected'; /* Use any name */
+  font-family: 'Gorton Perfected';
   src: url('../fonts/GortonPerfectedVF.ttf') format('truetype'),
        url('../fonts/GortonPerfectedVF.woff') format('woff'),
        url('../fonts/GortonPerfectedVF.woff2') format('woff2');
@@ -95,33 +34,107 @@ figcaption {
   font-style: normal;
 }
 
-/* Apply it to the body or other elements */
 body {
   font-family: 'Gorton Perfected', Helvetica, Arial, sans-serif;
 }
 
 .post-content {
-  font-family: 'Gorton Perfected', !important;
+  font-family: 'Gorton Perfected' !important;
 }
-  
+
+h3 {
+  text-align: center;
+}
+
+figcaption {
+  color: #FFFFFF;
+}
+
+/* ----------------------------------
+   Layout: Main Content and Wrapper
+---------------------------------- */
+.main-content {
+  flex: 1;
+  bottom-padding: 2.5rem;
+}
+
 .wrapper {
-    max-width: -webkit-calc(800px - (20px * 2));
-    max-width: calc(800px - (20px * 2));
-    margin-right: auto;
-    margin-left: auto;
-    padding-right: 20px;
-    padding-left: 20px
+  max-width: -webkit-calc(800px - (20px * 2));
+  max-width: calc(800px - (20px * 2));
+  margin: 0 auto;
+  padding: 0 20px;
 }
 
 @media screen and (max-width: 800px) {
-    .wrapper {
-        max-width:-webkit-calc(800px - (10px * 2));
-        max-width: calc(800px - (10px * 2));
-        padding-right: 10px;
-        padding-left: 10px
-    }
+  .wrapper {
+    max-width: -webkit-calc(800px - (10px * 2));
+    max-width: calc(800px - (10px * 2));
+    padding: 0 10px;
+  }
 }
 
+/* ----------------------------------
+   Sidebar Styles
+---------------------------------- */
+.sidebar-left {
+  position: absolute;
+  top: 61.94px;
+  left: 0;
+  padding-top: 0.5em;
+  width: clamp(200px, 15vw, 400px);
+  height: 1601px;
+  z-index: 10;
+  overflow-y: auto;
+
+  /* Hide scrollbar */
+  scrollbar-width: none;       /* Firefox */
+  -ms-overflow-style: none;    /* IE/Edge */
+}
+
+.sidebar-left::-webkit-scrollbar {
+  width: 0;                    /* Chrome, Safari */
+}
+
+.sidebar-left:hover {
+  scrollbar-width: thin;
+}
+
+.sidebar-left:hover::-webkit-scrollbar {
+  width: 8px;
+}
+
+.sidebar-left:hover::-webkit-scrollbar-thumb {
+  background-color: rgba(0, 0, 0, 0.2);
+  border-radius: 4px;
+}
+
+.sidebar-left table {
+  width: 100%;
+  table-layout: fixed;
+  border-collapse: collapse;
+}
+
+.sidebar-left ul li {
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+/* Hide sidebar and adjust layout on small screens */
+@media (max-width: 1084px) {
+  .sidebar-left {
+    display: none !important;
+  }
+
+  .container {
+    flex-direction: column;
+  }
+}
+
+/* ----------------------------------
+   Custom Block: .body1
+---------------------------------- */
 .body1 {
   border: 10px solid #72668a;
   border-radius: 8px;
