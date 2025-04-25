@@ -7,9 +7,16 @@
     color: #FFFFFF;
   }
 
-  a {
-    color: #99ccff;
-  }
+a {
+  color: #99ccff;
+  text-decoration: none; /* optional, if you want to remove the underline */
+  transition: color 0.2s ease-in-out;
+}
+
+a:hover {
+  color: #66aaff;
+  text-decoration: underline; /* optional, adds emphasis on hover */
+}
 /* ----------------------------------
    Typography and Font
 ---------------------------------- */
