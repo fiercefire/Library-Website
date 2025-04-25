@@ -32,7 +32,7 @@ the latter option currently.
 
 <figure>
   <img src="/Library-Website/images/olympus-Om-1n.jpg" alt="Olympus OM-1n fitted with the 50mm f/1.8 Zuiko kit lens">
-  <figcaption>Source: <a src="https://www.flickr.com/photos/captkodak/271929944">flickr</a></figcaption>
+  <figcaption>Source: [Flickr](https://www.flickr.com/photos/captkodak/271929944)</figcaption>
 </figure>
 
 Well I'm tired. Goodnight 🥱
