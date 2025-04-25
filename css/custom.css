@@ -46,6 +46,10 @@ h3 {
   text-align: center;
 }
 
+h1, h2, h3, h4, h5, h6 {
+  color: #ccb0be;
+}
+
 figcaption {
   color: #FFFFFF;
 }
@@ -143,7 +147,7 @@ figcaption {
   background-color: #1c2e14;
 }
 
-.body1 p {
+.body1 p, .body1 ul li, body ol li {
   color: #ccb0be;
   line-height: 1.6;
   letter-spacing: 0.02em;
