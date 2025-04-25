@@ -89,11 +89,19 @@ figcaption {
   height: 1601px;
   z-index: 10;
   overflow-y: auto;
-  background-color: #000000;
 
   /* Hide scrollbar */
   scrollbar-width: none;       /* Firefox */
   -ms-overflow-style: none;    /* IE/Edge */
+}
+
+.sidebar-left tr,
+.sidebar-left tr:nth-child(even),
+.sidebar-left tr:nth-child(odd),
+.sidebar-left li,
+.sidebar-left li:nth-child(even),
+.sidebar-left li:nth-child(odd) {
+  background-color: #000 !important;
 }
 
 .sidebar-left::-webkit-scrollbar {
@@ -138,7 +146,7 @@ figcaption {
 }
 
 /* ----------------------------------
-   Custom Block: .body1
+   Custom Block: .body1-5
 ---------------------------------- */
 .body1 {
   border: 10px solid #72668a;
