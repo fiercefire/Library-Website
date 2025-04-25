@@ -4,6 +4,7 @@ title: "Major Changes on the Home Page"
 tag: Site Progress
 Date: 2025-04-21 21:46:00 -800
 ---
+---
 Gosh third post of the day I am on a roll. You may have noticed the time at the top of this post. I plan to include that from now on for myself. The post will probably 
 slow down in the future but for now they remain plentiful so I can test my home page. You may not have noticed since the site is pretty new, but I moved the recent posts from the 
 bottom of the page to a left side bar. Should make it easier to find it. I also set the it to only show the most recent 10 posts so hopefully I have enough posts to see if that 
