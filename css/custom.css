@@ -7,6 +7,10 @@ h3 {
   bottom-padding: 2.5rem;
 }
 
+figcaption {
+  color:#FFFFFF;
+}
+
 .sidebar-left {
   position: absolute;
   top: 61.94px;
