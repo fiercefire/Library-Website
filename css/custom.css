@@ -39,7 +39,16 @@ a:hover {
   font-weight: normal;
   font-style: normal;
 }
-   
+
+.page-content .wrapper .post .post-header .post-title {
+   color: #6eff47;
+}
+
+.page-content .wrapper .post .post-header .post-meta .dt-published,
+.page-content .wrapper .post .post-header .post-meta .author {
+   color: #FFB347;
+}
+
 body {
   font-family: 'Gorton Perfected', Helvetica, Arial, sans-serif;
 }
