@@ -175,3 +175,7 @@ td {
   color: #66aaff;
   text-decoration: underline; /* optional, adds emphasis on hover */
 }
+
+page-link {
+   background-color: #1c2e14;
+}
