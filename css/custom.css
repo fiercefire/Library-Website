@@ -76,23 +76,6 @@ h1, h2, h3, h4, h5, h6, figcaption, span {
    color: #FFF;
 }
 /* ----------------------------------
-   Custom Block: .body1-5
----------------------------------- */
-.body1 {
-  border: 10px solid #72668a;
-  border-radius: 8px;
-  padding: 1rem;
-  margin: 0 0 2rem 0;
-  background-color: #1c2e14;
-}
-
-.body1 p, .body1 ul li, body ol li {
-  color: #ccb0be;
-  line-height: 1.6;
-  letter-spacing: 0.02em;
-  word-spacing: 0.1em;
-}
-/* ----------------------------------
    Sidebar Styles
 ---------------------------------- */
 .sidebar-left {
@@ -111,7 +94,7 @@ h1, h2, h3, h4, h5, h6, figcaption, span {
    background-color: #ccb0be;
 }
 
-.recent {
+.recent h3 {
    color: #000:
 }
    
