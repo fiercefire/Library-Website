@@ -79,15 +79,15 @@ h1, h2, h3, h4, h5, h6, figcaption, span {
    Custom Block: .body1-5
 ---------------------------------- */
 .body1 {
-  border: 10px solid #ccb0be;
+  border: 10px solid ##72668a;
   border-radius: 8px;
   padding: 1rem;
   margin: 0 0 2rem 0;
-  background-color: #72668a;
+  background-color: #1c2e14;
 }
 
 .body1 p, .body1 ul li, body ol li {
-  color: #1c2e14;
+  color: ##ccb0be;
   line-height: 1.6;
   letter-spacing: 0.02em;
   word-spacing: 0.1em;
