@@ -98,15 +98,15 @@ body {
 }
 
 .body1 {
-  border: 10px solid #72668a;
+  border: 10px solid #72668a !important;
   border-radius: 8px;
   padding: 1rem;
   margin: 0 0 2rem 0;
-  background-color: #1c2e14;
+  background-color: #1c2e14 !important;
 }
 
 .body1 p {
-  color: #ccb0be;
+  color: #ccb0be !important;
   line-height: 1.6;
   letter-spacing: 0.02em;
   word-spacing: 0.1em;
