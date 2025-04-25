@@ -171,6 +171,7 @@ td {
   transition: color 0.2s ease-in-out;
 }
 
-.site-header .wrapper .site-title {
-   color: #1c2e14;
+.site-header .wrapper .site-title,
+.site-header .wrapper .site-nav {
+   color: #FFF;
 }
