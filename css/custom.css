@@ -165,13 +165,11 @@ td {
    background-color: #374971;
 }
 
-.post_navi-item a, .nav_prev a {
-  color: #99ccff;
-  text-decoration: none; /* optional, if you want to remove the underline */
-  transition: color 0.2s ease-in-out;
-}
-
 .site-header .wrapper .site-title,
 .site-header .wrapper .site-nav {
    color: #FFF;
+}
+
+.site-footer .wrapper .footer-col-wrapper .footer-col-1 .contact-list .p-name {
+   color: #72668a;
 }
