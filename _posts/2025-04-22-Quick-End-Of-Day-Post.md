@@ -29,7 +29,11 @@ myself before I write a blog post about them.
 Final update for now is a fun one. I have decided to the get the Olympus OM-1n and I am paring it with the Olympus Zuiko 50mm f/1.8 Manual Focus Lens. So Excited! When I take photos 
 I will need to use the film roll up and then get it developed. So, I will either need to delay posts or just write the post and update them with the photos later? I'm leaning towards 
 the latter option currently.
-![Olympus OM-1n fitted with the 50mm f/1.8 Zuiko kit lens](https://github.com/user-attachments/assets/112b9309-f7fd-4819-869a-d58aed1ef593)
+
+<figure>
+  <img src="/Library-Website/images/olympus-Om-1n.jpg" alt="Olympus OM-1n fitted with the 50mm f/1.8 Zuiko kit lens">
+  <figcaption>Source: <a src="https://www.flickr.com/photos/captkodak/271929944">flickr</a></figcaption>
+</figure>
 
 Well I'm tired. Goodnight 🥱
 
