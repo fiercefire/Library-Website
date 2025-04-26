@@ -68,8 +68,9 @@ After I continued on to Now Serving which was only about a 5 minute walk away. I
   <figcaption>Interior Photo of Now Serving.<br>Source: <a href="https://www.timeout.com/los-angeles/shopping/now-serving">Time Out</a>, Stephanie Breijo.</figcaption>
 </figure>
 
+<h2>Future Planned Posts</h2>
+
 <div class="list-container">
-  <h2>Future Planned Posts</h2>
   <p style="text-align: center;">Food Places:</p>
   <ul>
     <li>Wurstkuche</li>
