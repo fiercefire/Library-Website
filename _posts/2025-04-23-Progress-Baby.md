@@ -15,4 +15,4 @@ Northern California and The Bay. Almost done. I also fixed the font so it will s
 
 Oh I also started watching <a href="https://youtube.com/playlist?list=PLhOoxQxz2yFOcJoLoPRyYzjqCbddeOjP4&si=3ZaKY_3Fm_v1PmNO">Fantasy High by Dimension 20</a>, really enjoying it so far!
 
-That is it, signing off.
+That's it, signing off.
