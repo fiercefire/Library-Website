@@ -10,8 +10,8 @@ Library System (Orange County) next. I am making sure to fill in missing librari
 the California State Library California Public Library Directories. I am cleaning it up as I go so I'll share that at a later date.
 
 <figure>
-  <img src="/Library-Website/images/CLA-Library-Systems-Map.jpeg">
-  <figcaption>Source: California State Library</figcaption>
+  <img src="/Library-Website/images/2015-03-16-CLA-Library-Systems-Map.jpeg" alt="California State Library compiled map of the different public library system consortiums">
+  <figcaption>California State Library compiled map of the different public library system consortiums.<br>Source: California State Library.</figcaption>
 </figure>
 
 Anyways it's currently 2:30 AM, I really need sleep I got work tommorrow T_T. See ya'll later.
