@@ -7,17 +7,34 @@ date: 2025-04-25 19:12:00 -800
 ---
 <link rel="stylesheet" href="/Library-Website/css/list-flex.css">
 
-DISCLAIMER: I'm not an expert—this is just for fun and based on my personal opinions. Please don't take any of this too seriously! Also these photos were taken with my phone. The camera I want to use has not be delievered yet.
+DISCLAIMER: I'm not an expert—this is just for fun and based on my personal opinions. Please don't take any of this too seriously! Also these photos were taken with my phone. The camera I want to use has not be delievered yet.<br>
 
-|This is a        | Table                       |
-| :---------      | :--------                   |
-| Restaurant      | Little Jewel of New Orleans |
-| Visit Date      | 2025 April 24               |
-| How I found     | Friend Recommendation       |
-| Recommend?      | Yes (if ok with heavy food) |
-| Bathroom Rating | N/A                         |
-| Rating          | Shrimply Amazing            |
-
+<table border="1">
+      <tr>
+        <td>Restaurant</td>
+        <td>Little Jewel of New Orleans</td>
+      </tr>
+      <tr>
+        <td>Visit Date</td>
+        <td>2025 April 24</td>
+      </tr>
+      <tr>
+        <td>How I found</td>
+        <td>Friend Recommendation</td>
+      </tr>
+      <tr>
+        <td>Recommend?</td>
+        <td>Yes (if ok with heavy food)</td>
+      </tr>
+      <tr>
+        <td>Bathroom Rating</td>
+        <td>N/A</td>
+      </tr>
+      <tr>
+        <td>Rating</td>
+        <td>Shrimply Amazing</td>
+      </tr>
+    </table>
 This table will definately get more refined as I make more food posts. 
 
 I do not normally go into work on Thurdays but I did go in this week for a short day to finish something. I ended heading out at about 1:00 PM and decided that since I was already nearit would be a good oppurtunity to walk over and check out Now Serving, a cookbook store. I ended deciding to get food at Philippe The Original (would recommend). I should not have been suprised therewas a massive line inside, so I choose to head on over to the Little Jewel of New Orleans which was nearby. Honestly, I would not have done so if my friend had not previously mentioned it to me. The Chinatown area is not the best, so the outside is not amazing looking but the inside was nice. There were all kinds of random little decorations put up.
@@ -91,10 +108,10 @@ After I continued on to Now Serving which was only about a 5 minute walk away. I
   </ul>
   
   <p style="text-align: center;">Libraries:</p>
-  <ol>
+  <ul>
     <li>Alhambra Library</li>
     <li>Metro Transportation Research Library and Archive</li>
-  </ol>
+  </ul>
 </div>
 
 <h2>Change Log</h2>
