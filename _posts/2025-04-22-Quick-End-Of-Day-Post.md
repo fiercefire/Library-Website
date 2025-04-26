@@ -31,7 +31,7 @@ I will need to use the film roll up and then get it developed. So, I will either
 the latter option currently.
 
 <figure>
-  <img src="/Library-Website/images/olympus-Om-1n.jpg" alt="Olympus OM-1n fitted with the 50mm f/1.8 Zuiko kit lens">
+  <img src="/Library-Website/images/2006-09-08-Steve-Harwood-Flickr-Olympus-Om-1n.jpg" alt="Olympus OM-1n fitted with the 50mm f/1.8 Zuiko kit lens">
   <figcaption>Source: <a href="https://www.flickr.com/photos/captkodak/271929944">Flickr</a></figcaption>
 </figure>
 
