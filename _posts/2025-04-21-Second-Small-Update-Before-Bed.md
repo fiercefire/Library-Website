@@ -2,7 +2,7 @@
 layout: post
 title: "Second (small) Update Before Bed"
 tag: Site Progress
-Date: 2025-04-20 23:59:00 -800
+Date: 2025-04-21 02:30:00 -800
 ---
 ---
 Just wanted to post a small map progress update. I have now added 49-99 the Cooperative Library System & San Joaquin Valley Library System. I plan on filling out the Santiago 
@@ -14,5 +14,5 @@ the California State Library California Public Library Directories. I am cleanin
   <figcaption>California State Library compiled map of the different public library system consortiums.<br>Source: California State Library.</figcaption>
 </figure>
 
-Anyway it's currently really late, I really need sleep I got work tommorrow T_T. See ya'll later.
+Anyway it's currently 2:30 AM, I really need sleep I got work tommorrow T_T. See ya'll later.
 
