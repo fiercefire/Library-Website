@@ -23,7 +23,7 @@ myself before I write a blog post about them.
 
 <figure>
   <img src="/Library-Website/images/2015-03-16-CLA-Library-Systems-Map.jpeg" alt="California State Library compiled map of the different public library system consortiums">
-  <figcaption>California State Library compiled map of the different public library system consortiums. Source: California State Library.</figcaption>
+  <figcaption>California State Library compiled map of the different public library system consortiums.<br>Source: California State Library.</figcaption>
 </figure>
 
 Final update for now is a fun one. I have decided to the get the Olympus OM-1n and I am paring it with the Olympus Zuiko 50mm f/1.8 Manual Focus Lens. So Excited! When I take photos 
@@ -32,7 +32,7 @@ the latter option currently.
 
 <figure>
   <img src="/Library-Website/images/2006-09-08-Steve-Harwood-Flickr-Olympus-Om-1n.jpg" alt="Olympus OM-1n fitted with the 50mm f/1.8 Zuiko kit lens">
-  <figcaption>The Olympus OM-1n fitted with the 50mm f/1.8 Zuiko kit lens. Source: <a href="https://www.flickr.com/photos/captkodak/271929944">Flickr</a>, Photographer: Steve Harwood.</figcaption>
+  <figcaption>The Olympus OM-1n fitted with the 50mm f/1.8 Zuiko kit lens.<br>Source: <a href="https://www.flickr.com/photos/captkodak/271929944">Flickr</a>, Photographer: Steve Harwood.</figcaption>
 </figure>
 
 Well I'm tired. Goodnight 🥱
