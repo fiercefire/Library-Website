@@ -88,7 +88,7 @@ After I continued on to Now Serving which was only about a 5 minute walk away. I
 <h2>Future Planned Posts</h2>
 
 <div class="list-container">
-  <p style="text-align: center;">Food Places:</p>
+  <p style="text-align: center;">Food:</p>
   <ul>
     <li>Wurstkuche</li>
     <li>Bakers Bench</li>
