@@ -84,7 +84,7 @@ After I continued on to Now Serving which was only about a 5 minute walk away. I
   <img src="/Library-Website/images/posts/2025-04-25-It's-A-Food-Post/2017-10-18-Stephanie-Breijo-Time-Out-Now-Serving-LA-Interior.png" alt="Now Serving Interior Photo">
   <figcaption>Interior Photo of Now Serving.<br>Source: <a href="https://www.timeout.com/los-angeles/shopping/now-serving">Time Out</a>, Stephanie Breijo.</figcaption>
 </figure>
-
+---
 <h2>Future Planned Posts</h2>
 
 <div class="list-container">
@@ -113,5 +113,5 @@ After I continued on to Now Serving which was only about a 5 minute walk away. I
     <li>Metro Transportation Research Library and Archive</li>
   </ul>
 </div>
-
+---
 <h2>Change Log</h2>
