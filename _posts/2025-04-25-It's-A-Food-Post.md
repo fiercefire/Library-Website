@@ -5,7 +5,7 @@ tag: Food
 date: 2025-04-25 19:12:00 -800
 ---
 ---
-<link rel="stylesheet" href="css/list-flex.css">
+<link rel="stylesheet" href="/Library-Website/css/list-flex.css">
 
 DISCLAIMER: I'm not an expert—this is just for fun and based on my personal opinions. Please don't take any of this too seriously! Also these photos were taken with my phone. The camera I want to use has not be delievered yet.
 
