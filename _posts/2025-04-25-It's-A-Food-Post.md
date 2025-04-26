@@ -34,7 +34,7 @@ They had these colored and laminated menus to look at the cashier and I totally 
 <figure>
   <img src="/Library-Website/images/posts/2025-04-25-It's-A-Food-Post/2025-12-Google-Maps-Anish-Thakkar-Little-Jewel-New-Orleans-Menu-Side-A.jpg" alt="Front Side[?] of the menu">
   <img src="/Library-Website/images/posts/2025-04-25-It's-A-Food-Post/2025-12-Google-Maps-Anish-Thakkar-Little-Jewel-New-Orleans-Menu-Side-B.jpg" alt="Back Side[?] of the menu">
-  <figcaption>Front and backside of the menu, small portion of one side of the menu is out of frame.<br> Source: <a href="https://www.google.com/maps/contrib/100632513839405797964/">Google Maps</a>, Anish Thakkar</figcaption>
+  <figcaption>Front and backside of the menu, small portion of one side of the menu is out of frame.<br> Source: <a href="https://www.google.com/maps/contrib/100632513839405797964/">Google Maps</a>, Anish Thakkar.</figcaption>
 </figure>
 
 One of the thing the restaurant is known for are po' boys so I went for that. I enjoy catfish so I opted to try their Louisiana Fried Catfish Filet Po' Boy over the typical shrimp po' boy. Scarfed it down with a nice cup of ice water. Normally, my appetite would make me order more food than just a single po' boy but since it is seafood it was on the pricer side. I also did not get any desert since I wasn't feeling it, but definately would have gotten some beignets. It was one of those restaurants where you ordered and paid before sitting down, and the wait was not too long (5-10 mins?) before they called me over to the counter to grab my food. The po' boy was nicely sized and the bread was nice and soft. The veggies and pickles in the sandwich did a great job of cutting through and balancing out the heaviness of the fried catfish. I even put a dash of the cajun seasoning and hot sauce which were present at all the tables. The hot sauce was real delicous, it was more sweet and tangy than hot honestlt, but I enjoyed nevertheless. Overall I was satisifed with my meal. 
@@ -65,7 +65,7 @@ After I continued on to Now Serving which was only about a 5 minute walk away. I
 </figure>
 <figure>
   <img src="/Library-Website/images/posts/2025-04-25-It's-A-Food-Post/2017-10-18-Stephanie-Breijo-Time-Out-Now-Serving-LA-Interior.png" alt="Now Serving Interior Photo">
-  <figcaption>Interior Photo of Now Serving.<br>Source: <a href="https://www.timeout.com/los-angeles/shopping/now-serving">Time Out</a>, Stephanie Breijo</figcaption>
+  <figcaption>Interior Photo of Now Serving.<br>Source: <a href="https://www.timeout.com/los-angeles/shopping/now-serving">Time Out</a>, Stephanie Breijo.</figcaption>
 </figure>
 
 <div class="list-container">
