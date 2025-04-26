@@ -17,6 +17,7 @@ DISCLAIMER: I'm not an expert—this is just for fun and based on my personal op
 | Recommend?      | Yes (if ok with heavy food) |
 | Bathroom Rating | N/A                         |
 | Rating          | Shrimply Amazing            |
+
 This table will definately get more refined as I make more food posts. 
 
 I do not normally go into work on Thurdays but I did this week for a short day to finish something. I ended heading out at about 1:00 PM and decided that since I was already near
