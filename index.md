@@ -10,33 +10,33 @@ layout: home
     <h3>Map Legend</h3>
     <table border="1">
       <tr>
-        <td><img src="images/red.png" alt="red square" /></td>
+        <td><img src="images/sidebar/red.png" alt="red square" /></td>
         <td>Unvisited</td>
       </tr>
       <tr>
-        <td><img src="images/green.png" alt="green square" /></td>
+        <td><img src="images/sidebar/green.png" alt="green square" /></td>
         <td>Visited</td>
       </tr>
     </table>
     <table border="1">
       <tr>
-        <td><img src="images/book.png" alt="book icon" /></td>
+        <td><img src="images/sidebar/book.png" alt="book icon" /></td>
         <td>Public</td>
       </tr>
       <tr>
-        <td><img src="images/grad-cap.png" alt="grad cap icon" /></td>
+        <td><img src="images/sidebar/grad-cap.png" alt="grad cap icon" /></td>
         <td>Academic</td>
       </tr>
       <tr>
-        <td><img src="images/question-mark.png" alt="question mark icon" /></td>
+        <td><img src="images/sidebar/question-mark.png" alt="question mark icon" /></td>
         <td>Archive</td>
       </tr>
       <tr>
-        <td><img src="images/pizza.png" alt="pizza icon" /></td>
+        <td><img src="images/sidebar/pizza.png" alt="pizza icon" /></td>
         <td>Food</td>
       </tr>
       <tr>
-        <td><img src="images/heart.png" alt="heart icon" /></td>
+        <td><img src="images/sidebar/heart.png" alt="heart icon" /></td>
         <td>Misc</td>
       </tr>
     </table>
