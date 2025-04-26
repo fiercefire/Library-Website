@@ -25,7 +25,7 @@ I do not normally go into work on Thurdays but I did go in this week for a short
 <figure>
   <img src="/Library-Website/images/posts/2025-04-25-It's-A-Food-Post/2025-04-24-Toby-Little-Jewel-New-Orleans-Exterior.png" alt="Exterior of Little Jewel of New Orleans">
   <img src="/Library-Website/images/posts/2025-04-25-It's-A-Food-Post/2025-04-24-Toby-Little-Jewel-New-Orleans-Exterior-Part-2.png" alt="Another Exterior of Little Jewel of New Orleans">
-  <img src="Library-Website/images/posts/2025-04-25-It's-A-Food-Post/2025-04-24-Toby-Little-Jewel-New-Orleans-Interior.png" alt="Interior of Little Jewel of New Orleans">
+  <img src="/Library-Website/images/posts/2025-04-25-It's-A-Food-Post/2025-04-24-Toby-Little-Jewel-New-Orleans-Interior.png" alt="Interior of Little Jewel of New Orleans">
   <figcaption>Photos of the outside and inside of Little Jewel of New Orleans.<br> Source: Me.</figcaption>
 </figure>
 
