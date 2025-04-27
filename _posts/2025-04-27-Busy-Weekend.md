@@ -2,8 +2,8 @@
 layout: post
 title: Busy Weekend
 tags:
-  -Other
-  -Chronological
+  Other
+  Chronological
 date: 2025-04-27 14:57:00 -800
 ---
 ---
