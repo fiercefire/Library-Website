@@ -4,7 +4,7 @@ title: Busy Weekend
 tags:
   Other
   Chronological
-date: 2025-04-27 14:57:00 -800
+date: 2025-04-27 2:57:00 -800
 ---
 ---
 Just dumping some photos here. I will be adding more photos and writing some stuff later. I need to do some homework first.
