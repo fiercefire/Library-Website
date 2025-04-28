@@ -192,36 +192,37 @@ td {
    Image Zoom In
 ------------------------------------*/
 .img-modal {
-  cursor: zoom-in;
-  display: inline-block;
-  position: relative;
+  position: relative;   /* Ensure positioning context for absolute child elements */
+  display: inline-block; 
+  cursor: zoom-in;      /* Indicate that the image is clickable */
 }
 
 .img-modal input {
-  position: absolute;   /* Remove from normal document flow */
-  width: 100%;          /* Make it span the full size of the figure */
-  height: 100%;         /* Same here */
+  position: absolute;   /* Position it to cover the whole figure/image area */
   top: 0;
   left: 0;
-  opacity: 0;           /* Make the checkbox invisible */
-  cursor: pointer;     /* Still show the pointer when hovering */
+  width: 100%;           /* Full size of the figure */
+  height: 100%;          /* Full size of the figure */
+  opacity: 0;            /* Make the checkbox invisible */
+  cursor: pointer;      /* Make the entire area (image and figure) clickable */
+  z-index: 1;            /* Make sure the checkbox is on top of the image */
 }
 
 .img-modal img {
-  max-width: 300px;
-  transition: 0.3s ease;
+  max-width: 300px;      /* Normal size of the image */
+  transition: 0.3s ease; /* Smooth transition for zoom effect */
 }
 
 .img-modal input:checked ~ img {
-  position: fixed;
+  position: fixed;       /* When checked, image will zoom */
   top: 50%;
   left: 50%;
-  transform: translate(-50%, -50%);
-  max-width: 90%;
-  max-height: 90%;
-  z-index: 9999;
-  cursor: zoom-out;
-  background: rgba(0, 0, 0, 0.8);
+  transform: translate(-50%, -50%);  /* Center image in the viewport */
+  max-width: 90%;        /* Limit zoom size */
+  max-height: 90%;       /* Limit zoom size */
+  z-index: 9999;         /* Ensure it's on top of all elements */
+  cursor: zoom-out;      /* Indicate that the user can click to zoom out */
+  background: rgba(0, 0, 0, 0.8); /* Darken the background when zoomed */
 }
 
 .img-modal figcaption {
