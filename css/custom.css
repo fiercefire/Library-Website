@@ -200,12 +200,12 @@ td {
 
 .image-container figure {
   flex: 1 1 300px; /* grow and shrink, min 300px width */
-  max-width: 400px; /* optional, to not stretch too much */
+  max-width: 380px; /* optional, to not stretch too much */
   margin: 0;
 }
 
 .image-container img {
-  width: 50%;
+  width: 10%;
   height: auto;
   display: block;
   border-radius: 8px; /* optional: makes images have rounded corners */
