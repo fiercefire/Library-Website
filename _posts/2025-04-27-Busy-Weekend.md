@@ -24,9 +24,17 @@ The only two things that I bought at the Festival of Books; no author signatures
 <div class="image-container">
   <figure>
     <img src="https://raw.githubusercontent.com/fiercefire/Blog-Assets/refs/heads/main/2025-04-26-Busy-Weekend/2025-04-26-Heyday-Indie-Publisher.webp" alt="Heyday Indie Publisher Brochure">
-    <img src="https://raw.githubusercontent.com/fiercefire/Blog-Assets/refs/heads/main/2025-04-26-Busy-Weekend/2025-04-26-Marni-Fylling-Pacific-Coast-Tide-Pools.webp" alt="Pacific Coast Tide Pools by Marni Fylling">    
+    <figcaption>A small brochure about Heyday, a Indie Publisher which had a booth at the Festival of Books.<br>Source: Me.</figcaption>
+  </figure>
+
+  <figure>
+    <img src="https://raw.githubusercontent.com/fiercefire/Blog-Assets/refs/heads/main/2025-04-26-Busy-Weekend/2025-04-26-Marni-Fylling-Pacific-Coast-Tide-Pools.webp" alt="Pacific Coast Tide Pools by Marni Fylling">
+    <figcaption>A fun little illustrated guide book to the tide pools of the pacific coast. 1 of the 2 books (both at the Heyday publisher booth) I purchased at the Festival of Books.<br>Source: Me.</figcaption>
+  </figure>
+
+  <figure>
     <img src="https://raw.githubusercontent.com/fiercefire/Blog-Assets/refs/heads/main/2025-04-26-Busy-Weekend/2025-04-26-Sara-Olson-Chimi-Nu'am.webp" alt="Chmui Nu'am by Sara Calvosa Olson">
-    <figcaption>A small brochure along with two books from the Heyday Indio Publisher booth at the Festival of Books.<br>Source: Me.</figcaption>
+    <figcaption>A cookbook focused on native Californian ingrediants. The second book I purchased at the Festival of Books.<br>Source: Me.</figcaption>
   </figure>
 </div>
 
@@ -44,13 +52,22 @@ After getting back to Alhambra (about an hour by public transit from USC) I had 
 <div class="image-container">
   <figure>
     <img src="https://raw.githubusercontent.com/fiercefire/Blog-Assets/refs/heads/main/2025-04-26-Busy-Weekend/2025-04-26-Borneo-Rojak.webp" alt="Rojak from Borneo Kalimantan Cuisine">
-    <img src="https://raw.githubusercontent.com/fiercefire/Blog-Assets/refs/heads/main/2025-04-26-Busy-Weekend/2025-04-26-Bornero-Penyet-Plate.webp" alt="Penyet Plate from Borneo Kalimantan Cuisine">
-    <figcaption>Rojak and Penyet plate from Borneo Kalimantan Cuisine.<br>Source: Me.</figcaption><br>Source: Me.</figcaption>
+    <figcaption>The Penyet plate from Borneo Kalimantan Cuisine.<br>Source: Me.<br>Source: Me.</figcaption>
+  </figure>
 
   <figure>
+    <img src="https://raw.githubusercontent.com/fiercefire/Blog-Assets/refs/heads/main/2025-04-26-Busy-Weekend/2025-04-26-Bornero-Penyet-Plate.webp" alt="Penyet Plate from Borneo Kalimantan Cuisine">
+    <figcaption>Rojak, an appetizer from Borneo Kalimantan Cuisine.<br>Source: Me.<br>Source: Me.</figcaption>
+  </figure>
+  
+  <figure>
     <img src="https://raw.githubusercontent.com/fiercefire/Blog-Assets/refs/heads/main/2025-04-26-Busy-Weekend/2025-04-26-Borneo-Menu-Side-A.webp" alt="Front of Menu, Borneo Kalimantan Cuisine">
+    <figcaption>Front of the menu from Borneo Kalimantan Cuisine.<br>Source: Me.</figcaption>
+  </figure>
+
+  <figure>
     <img src="https://raw.githubusercontent.com/fiercefire/Blog-Assets/refs/heads/main/2025-04-26-Busy-Weekend/2025-04-26-Borneo-Menu-Side-B.webp" alt="Back of Menu, Borneo Kalimantan Cuisine">
-    <figcaption>Front and Back of menu from Borneo Kalimantan Cuisine.<br>Source: Me.</figcaption>
+    <figcaption>Back of the menu from Borneo Kalimantan Cuisine.<br>Source: Me.</figcaption>
   </figure>
 </div>
 
