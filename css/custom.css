@@ -198,7 +198,8 @@ td {
 }
 
 .img-modal input {
-  display: none;
+  display: block; /* Temporarily make the checkbox visible */
+  margin: 10px;
 }
 
 .img-modal img {
