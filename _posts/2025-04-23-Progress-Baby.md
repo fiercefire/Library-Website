@@ -9,7 +9,7 @@ All done with Region 8 which is the Inland Library System. The region covers Iny
 Northern California and The Bay. Almost done. I also fixed the font so it will show up for everyone now and not just me. WOOHOO!
 
 <figure>
-  <img src="/Library-Website/images/posts/2025-04-23-Progress-Baby/2015-03-16-CLA-Library-Systems-Map.jpeg" alt="California State Library compiled map of the different public library system consortiums">
+  <img src="https://raw.githubusercontent.com/fiercefire/Blog-Assets/refs/heads/main/2025-04-23-Progress-Baby/2015-03-16-CLA-Library-Systems-Map.webp" alt="California State Library compiled map of the different public library system consortiums">
   <figcaption>California State Library compiled map of the different public library system consortiums.<br>Source: California State Library.</figcaption>
 </figure>
 
