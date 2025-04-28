@@ -60,7 +60,7 @@ layout: home
 <p>The main and original purpose was to use this simply as a way to house that map you see embedded above this introduction. As a way to visualize the libraries/archives 
 in California and ones I visit outside of California. Here are some things to expect from my posts:</p>   
 <ul>
-  <li>Everything I put out here will be lazy and sloppy. That includes photo quality, spelling, and grammar.</li>
+  <li>Everything I put out here will be lazy and sloppy. That includes spelling, grammar, and photo quality (images will be kinda small, right-click and open them in a new tab to see them in full size).</li>
   <li>If I talk about any history, I will be doing research and trying to make sure everything is right but I will be too lazy to cite anything formally. Feel free to fact-check me if you'd like and email me any errors so I can fix them if you feel strongly enough about it.</li>
   <li>I will probably be getting a decent SLR 35mm camera to take pictures of the libraries/archives along with anything else noteworthy. I am new to photography so it will be rough but fun to learn.</li>
   <li>I will be including silly arbitrary ratings for the libraries/archives I visit.</li>
