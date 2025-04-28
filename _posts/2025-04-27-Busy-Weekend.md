@@ -7,38 +7,32 @@ date: 2025-04-27 2:57:00 -800
 ---
 Just dumping some photos here. I will be adding more photos and writing some stuff later. I need to do some homework first.
 
-<figure class="img-modal">
-  <input type="checkbox">
+<figure>
   <img src="https://raw.githubusercontent.com/fiercefire/Blog-Assets/refs/heads/main/2025-04-26-Busy-Weekend/2025-04-26-Borneo-Menu-Side-A.webp" alt="">
   <figcaption></figcaption>
 </figure>
 
-<figure class="img-modal">
-  <input type="checkbox">
+<figure>
   <img src="https://raw.githubusercontent.com/fiercefire/Blog-Assets/refs/heads/main/2025-04-26-Busy-Weekend/2025-04-26-Borneo-Menu-Side-B.webp" alt="">
   <figcaption></figcaption>
 </figure>
 
-<figure class="img-modal">
-  <input type="checkbox">
+<figure>
   <img src="https://raw.githubusercontent.com/fiercefire/Blog-Assets/refs/heads/main/2025-04-26-Busy-Weekend/2025-04-26-Bornero-Penyet-Plate.webp" alt="">
   <figcaption></figcaption>
 </figure>
 
-<figure class="img-modal">
-  <input type="checkbox">
+<figure>
   <img src="https://raw.githubusercontent.com/fiercefire/Blog-Assets/refs/heads/main/2025-04-26-Busy-Weekend/2025-04-26-Borneo-Rojak.webp" alt="">
   <figcaption></figcaption>
 </figure>
 
-<figure class="img-modal">
-  <input type="checkbox">
+<figure>
   <img src="https://raw.githubusercontent.com/fiercefire/Blog-Assets/refs/heads/main/2025-04-26-Busy-Weekend/2025-04-26-Festival-Of-Books-30-Years.webp" alt="">
   <figcaption></figcaption>
 </figure>
 
-<figure class="img-modal">
-  <input type="checkbox">
+<figure>
   <img src="https://raw.githubusercontent.com/fiercefire/Blog-Assets/refs/heads/main/2025-04-26-Busy-Weekend/2025-04-26-Festival-Of-Books-Sign.webp" alt="">
   <figcaption></figcaption>
 </figure>
