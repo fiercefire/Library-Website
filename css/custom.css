@@ -225,6 +225,10 @@ td {
   background: rgba(0, 0, 0, 0.8); /* Darken the background when zoomed */
 }
 
+.img-modal input:checked ~ img:hover {
+  cursor: zoom-out;      /* Ensure that clicking the zoomed image also zooms out */
+}
+
 .img-modal figcaption {
   text-align: center;
   margin-top: 8px;
