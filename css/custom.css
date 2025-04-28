@@ -191,46 +191,42 @@ td {
 /*------------------------------------
    Image Zoom In
 ------------------------------------*/
-.img-modal {
+/* Style for the zoom container */
+.zoom-container {
   position: relative;
   display: inline-block;
-  cursor: zoom-in; /* Indicate image can be clicked to zoom in */
+  cursor: zoom-in; /* Indicate the image can be clicked */
 }
 
-.img-modal input {
-  position: absolute;
-  top: 0;
-  left: 0;
+/* Hide the checkbox, but make it clickable */
+.zoom-container input {
+  display: none;
+}
+
+/* Style for the image: smaller size for thumbnails */
+.zoom-container img {
+  max-width: 200px; /* Set thumbnail size */
   width: 100%;
-  height: 100%;
-  opacity: 0; /* Hide the checkbox */
-  cursor: pointer; /* Make the entire figure clickable */
-  z-index: 1; /* Make the checkbox interactable */
+  transition: transform 0.3s ease; /* Smooth zoom transition */
 }
 
-.img-modal img {
-  max-width: 300px;
-  transition: transform 0.3s ease; /* Smooth transition for zoom */
-  cursor: zoom-in; /* Indicate that the image can be zoomed in */
+/* Zoom-in effect when checkbox is checked */
+.zoom-container input:checked + label img {
+  transform: scale(2); /* Zoom-in effect */
+  max-width: none; /* Allow image to scale up to full size */
+  cursor: zoom-out; /* Indicate the image can be clicked to zoom out */
 }
 
-.img-modal input:checked ~ img {
+/* Darken the background when zoomed in */
+.zoom-container input:checked + label img {
+  background: rgba(0, 0, 0, 0.8); /* Optional: Darken the background when zoomed */
+}
+
+/* Optional: Center the zoomed-in image */
+.zoom-container input:checked + label {
   position: fixed;
   top: 50%;
   left: 50%;
-  transform: translate(-50%, -50%) scale(2); /* Zoom in effect when checked */
-  max-width: 90%;
-  max-height: 90%;
+  transform: translate(-50%, -50%); /* Center the zoomed-in image */
   z-index: 9999;
-  cursor: zoom-out; /* Indicate zoom-out when clicked */
-  background: rgba(0, 0, 0, 0.8); /* Darken background */
-}
-
-.img-modal input:checked ~ img:hover {
-  cursor: zoom-out; /* Ensure zoom-out cursor on hover when zoomed in */
-}
-
-.img-modal input:checked ~ img:active {
-  transform: scale(1); /* Reset to original size when active (clicked again) */
-  background: none; /* Remove background darkening */
 }
