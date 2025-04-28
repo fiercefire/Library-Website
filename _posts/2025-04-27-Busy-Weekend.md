@@ -5,13 +5,16 @@ tags: [Other, Chronological]
 date: 2025-04-27 2:57:00 -800
 ---
 ---
-Don't feel liking writing that much so here is a photo dump of the weekend. You can open the images in a new tab to look at them at a larger size, they still won't be that high quality but its an option. On to talking about the actual weekend, On Saturday I went to the Festival of Books by way of public Transit (LA Metro E Line) and the Jackalope Indie Artisan Fair in Pasadena (1 of 4 different locations) on Sunday. 
+Don't feel liking writing that much so here is a photo dump of the weekend. You can open the images in a new tab to look at them at a larger size, they still won't be that high quality but its an option. On to talking about the actual weekend, On Saturday I went to the Festival of Books by way of public Transit (LA Metro E Line) and the Jackalope Indie Artisan Fair in Pasadena (1 of 4 different locations) on Sunday. If you are able to and you like books and artisan crafts, I would highly recommend checking out Festival of Books and Jackalope. 
 
 <div class="image-container">
   <figure>
     <img src="https://raw.githubusercontent.com/fiercefire/Blog-Assets/refs/heads/main/2025-04-26-Busy-Weekend/2025-04-26-Festival-Of-Books-Sign.webp" alt="Festival of Books Sign">
+    <figcaption>Signage at the Festival of Books held at USC.<br>Source: Me.</figcaption>
+
+<figure>
     <img src="https://raw.githubusercontent.com/fiercefire/Blog-Assets/refs/heads/main/2025-04-26-Busy-Weekend/2025-04-26-Festival-Of-Books-30-Years.webp" alt="30 Years of the Festival of Books">
-    <figcaption>Signage at the Festival of Books held at USC, which appears to have been running for 30 years.<br>Source: Me.</figcaption>
+    <figcaption>Sign showcasing the main poster for the Festival of Books for the past 30 years of exsistence.<br>Source: Me.</figcaption>
   </figure>
 
 The only two things that I bought at the Festival of Books; no author signatures unfortunately. Heyday seems like a super cool publisher and honestly I wanted so many books that were at the booth. I had to hold back because new books are expensive. 
@@ -60,8 +63,6 @@ At the Jackalope Indie Artisan Fair I got a salted pretzel with mustard which wa
     <figcaption>2 mugs with No Face from Sprited Away on them.<br>Source: Me.</figcaption>
   </figure>
 </div>
-
-If you are able to and you like books and artisan crafts, I would highly recommend checking out Festival of Books and Jackalope. 
 ---
 <h2>Future Planned Posts</h2>
 
