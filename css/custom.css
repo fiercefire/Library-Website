@@ -191,13 +191,3 @@ td {
 /* ------------------------------------
    Images
 ------------------------------------ */
-.image-container {
-   display: flex;
-   flex-wrap: wrap; /* Allow images to wrap to the next line if needed */
-}
-
-img {
-   max-width: 45%;
-   height: auto;
-   box-sizing: border-box; /* Important for including padding and borders in the width calculation */
-}
