@@ -73,7 +73,7 @@ After getting back to Alhambra (about an hour by public transit from USC) I had 
 
 At the Jackalope Indie Artisan Fair I got a salted pretzel with mustard which was delicious, saw a really cute mushroom witch hat, and some No Face mugs (No Face is so goof, love him). A lot of other cool stuff, too much so I will not be including it.
 
-<div class="image=container">
+<div class="image-container">
   <figure>
     <img src="https://raw.githubusercontent.com/fiercefire/Blog-Assets/refs/heads/main/2025-04-26-Busy-Weekend/2025-04-27-Jackoplope-Salted-Pretzel.webp" alt="Salted Pretzel and Mustard">
     <figcaption>A $5 salted pretzel and dijion mustard obtained at a food stall at the Jackalope Indie Artisan Fair.<br>Source: Me.</figcaption>
