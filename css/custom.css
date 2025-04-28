@@ -205,7 +205,7 @@ td {
 }
 
 .image-container img {
-  width: 10%;
+  width: 100%;
   height: auto;
   display: block;
   border-radius: 8px; /* optional: makes images have rounded corners */
