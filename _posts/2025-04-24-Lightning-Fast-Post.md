@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lightning Fast Post"
-tag: Site Progress
+tags: [Site Progress, Chronological]
 Date: 2025-04-20 23:59:00 -800
 ---
 ---
