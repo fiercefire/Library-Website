@@ -9,7 +9,7 @@ Just wanted to post a small map progress update. I have now added 49-99 the Coop
 Library System (Orange County) next. I am making sure to fill in missing libraries from the consortiums (as best I can). I am achieveing this with a spreadsheet of data from
 the California State Library California Public Library Directories. I am cleaning it up as I go so I'll share that at a later date.
 
-<div class=image-container">
+<div class="image-container">
   <figure>
     <img src="https://raw.githubusercontent.com/fiercefire/Blog-Assets/refs/heads/main/2025-04-21-Second-Small-Update-Before-Bed/2015-03-16-CLA-Library-Systems-Map.webp" alt="California State Library compiled map of the different public library system consortiums">
     <figcaption>California State Library compiled map of the different public library system consortiums.<br>Source: California State Library.</figcaption>
