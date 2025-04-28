@@ -214,20 +214,15 @@ td {
 }
 
 .img-modal input:checked ~ img {
-  position: fixed;       /* When checked, image will zoom */
+  position: fixed;
   top: 50%;
   left: 50%;
-  transform: translate(-50%, -50%);  /* Center image in the viewport */
-  max-width: 90%;        /* Limit zoom size */
-  max-height: 90%;       /* Limit zoom size */
-  z-index: 9999;         /* Ensure it's on top of all elements */
-  cursor: zoom-out;      /* Indicate that the user can click to zoom out */
-  background: rgba(0, 0, 0, 0.8); /* Darken the background when zoomed */
-}
-
-.img-modal input:checked ~ img:hover {
-  cursor: zoom-out;      /* Ensure that clicking the zoomed image also zooms out */
-}
+  transform: translate(-50%, -50%);
+  max-width: 90%;
+  max-height: 90%;
+  z-index: 9999;
+  cursor: zoom-out;  /* Indicate zoom-out when zoomed in */
+  background: rgba(0, 0, 0, 0.8); /* Darken the background */
 
 .img-modal figcaption {
   text-align: center;
