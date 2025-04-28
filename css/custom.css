@@ -188,3 +188,39 @@ td {
 .page-content .wrapper .post .post-header .post-meta span {
    color: #caaebc;
 }
+/*------------------------------------
+   Image Zoom In
+------------------------------------*/
+.img-modal {
+  cursor: zoom-in;
+  display: inline-block;
+  position: relative;
+}
+
+.img-modal input {
+  display: none;
+}
+
+.img-modal img {
+  max-width: 300px;
+  transition: 0.3s ease;
+}
+
+.img-modal input:checked ~ img {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  max-width: 90%;
+  max-height: 90%;
+  z-index: 9999;
+  cursor: zoom-out;
+  background: rgba(0, 0, 0, 0.8);
+}
+
+.img-modal figcaption {
+  text-align: center;
+  margin-top: 8px;
+  font-size: 14px;
+  color: #333;
+}
