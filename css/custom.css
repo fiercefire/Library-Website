@@ -197,7 +197,8 @@ td {
 }
 
 .image-container img {
-   width: 50% /* Each image takes up one-third of the container */
+   width: 50%
+   height: auto;
    box-sizing: border-box; /* Important for including padding and borders in the width calculation */
    padding: 5px; /* Add some padding between images */
 }
