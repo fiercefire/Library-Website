@@ -198,8 +198,13 @@ td {
 }
 
 .img-modal input {
-  display: block; /* Temporarily make the checkbox visible */
-  margin: 10px;
+  position: absolute;   /* Remove from normal document flow */
+  width: 100%;          /* Make it span the full size of the figure */
+  height: 100%;         /* Same here */
+  top: 0;
+  left: 0;
+  opacity: 0;           /* Make the checkbox invisible */
+  cursor: pointer;     /* Still show the pointer when hovering */
 }
 
 .img-modal img {
