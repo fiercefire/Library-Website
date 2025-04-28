@@ -200,7 +200,7 @@ td {
 
 .image-container figure {
   flex: 1 1 300px; /* grow and shrink, min 300px width */
-  max-width: 380px; /* optional, to not stretch too much */
+  max-width: 370px; /* optional, to not stretch too much */
   margin: 0;
 }
 
