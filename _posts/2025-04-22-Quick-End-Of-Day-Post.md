@@ -32,7 +32,7 @@ Final update for now is a fun one. I have decided to the get the Olympus OM-1n a
 I will need to use the film roll up and then get it developed. So, I will either need to delay posts or just write the post and update them with the photos later? I'm leaning towards 
 the latter option currently.
 
-<div class="image-container>
+<div class="image-container">
   <figure>
     <img src="https://raw.githubusercontent.com/fiercefire/Blog-Assets/refs/heads/main/2025-04-22-Quick-End-Of-Day-Post/2006-09-08-Steve-Harwood-Flickr-Olymous-Om-1n.webp" alt="Olympus OM-1n fitted with the 50mm f/1.8 Zuiko kit lens">
     <figcaption>The Olympus OM-1n fitted with the 50mm f/1.8 Zuiko kit lens.<br>Source: <a href="https://www.flickr.com/photos/captkodak/271929944">Flickr</a>, Photographer: Steve Harwood.</figcaption>
