@@ -191,12 +191,12 @@ td {
 /* ------------------------------------
    Images
 ------------------------------------ */
-.image-container {
+.image-container figure {
    display: flex;
    flex-wrap: wrap; /* Allow images to wrap to the next line if needed */
 }
 
-.image-container img {
+.image-container figure img {
    width: 50% /* Each image takes up one-third of the container */
    box-sizing: border-box; /* Important for including padding and borders in the width calculation */
    padding: 5px; /* Add some padding between images */
