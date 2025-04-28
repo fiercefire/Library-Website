@@ -23,8 +23,8 @@ The only two things that I bought at the Festival of Books; no author signatures
 
 <div class="image-container">
   <figure>
-    <img src="https://raw.githubusercontent.com/fiercefire/Blog-Assets/refs/heads/main/2025-04-26-Busy-Weekend/2025-04-26-Heyday-Indie-Publisher.webp" alt="Heyday Indie Publisher Brochure">
-    <figcaption>A small brochure about Heyday, a Indie Publisher which had a booth at the Festival of Books.<br>Source: Me.</figcaption>
+    <img src="https://raw.githubusercontent.com/fiercefire/Blog-Assets/refs/heads/main/2025-04-26-Busy-Weekend/2025-04-26-Sara-Olson-Chimi-Nu'am.webp" alt="Chmui Nu'am by Sara Calvosa Olson">
+    <figcaption>A cookbook focused on native Californian ingrediants. The second book I purchased at the Festival of Books.<br>Source: Me.</figcaption>
   </figure>
 
   <figure>
@@ -33,8 +33,8 @@ The only two things that I bought at the Festival of Books; no author signatures
   </figure>
 
   <figure>
-    <img src="https://raw.githubusercontent.com/fiercefire/Blog-Assets/refs/heads/main/2025-04-26-Busy-Weekend/2025-04-26-Sara-Olson-Chimi-Nu'am.webp" alt="Chmui Nu'am by Sara Calvosa Olson">
-    <figcaption>A cookbook focused on native Californian ingrediants. The second book I purchased at the Festival of Books.<br>Source: Me.</figcaption>
+    <img src="https://raw.githubusercontent.com/fiercefire/Blog-Assets/refs/heads/main/2025-04-26-Busy-Weekend/2025-04-26-Heyday-Indie-Publisher.webp" alt="Heyday Indie Publisher Brochure">
+    <figcaption>A small brochure about Heyday, a Indie Publisher which had a booth at the Festival of Books.<br>Source: Me.</figcaption>
   </figure>
 </div>
 
@@ -75,11 +75,6 @@ At the Jackalope Indie Artisan Fair I got a salted pretzel with mustard which wa
 
 <div class="image-container">
   <figure>
-    <img src="https://raw.githubusercontent.com/fiercefire/Blog-Assets/refs/heads/main/2025-04-26-Busy-Weekend/2025-04-27-Jackoplope-Salted-Pretzel.webp" alt="Salted Pretzel and Mustard">
-    <figcaption>A $5 salted pretzel and dijion mustard obtained at a food stall at the Jackalope Indie Artisan Fair.<br>Source: Me.</figcaption>
-  </figure>
-
-  <figure>
     <img src="https://raw.githubusercontent.com/fiercefire/Blog-Assets/refs/heads/main/2025-04-26-Busy-Weekend/2025-04-27-Jazzy-Gurumi-Mushroom-Hat.webp" alt="Crocheted Mushroom Witch Hat">
     <figcaption>A fun crocheted red mushroom witch/wizard hat at the Jackalope Indie Artisan Fair.<br>Source: Me.</figcaption>
   </figure>
@@ -87,6 +82,11 @@ At the Jackalope Indie Artisan Fair I got a salted pretzel with mustard which wa
   <figure>
     <img src="https://raw.githubusercontent.com/fiercefire/Blog-Assets/refs/heads/main/2025-04-26-Busy-Weekend/2025-04-27-kh-ceramics-No-Face-Mug.webp" alt="No Face Mugs">
     <figcaption>2 mugs with No Face from Sprited Away on them.<br>Source: Me.</figcaption>
+  </figure>
+
+  <figure>
+    <img src="https://raw.githubusercontent.com/fiercefire/Blog-Assets/refs/heads/main/2025-04-26-Busy-Weekend/2025-04-27-Jackoplope-Salted-Pretzel.webp" alt="Salted Pretzel and Mustard">
+    <figcaption>A $5 salted pretzel and dijion mustard obtained at a food stall at the Jackalope Indie Artisan Fair.<br>Source: Me.</figcaption>
   </figure>
 </div>
 ---
