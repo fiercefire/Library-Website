@@ -28,7 +28,7 @@ Oh and there will now be a "Planned Posts" and "Changelog" section at the end of
     <li>La cha cha cha</li>
     <li>Pho 87</li>
     <li>Tam O'Shanter</li>
-    <li>Proff Bakery</li>
+    <li>Proof Bakery</li>
     <li>Costco Food Court</li>
     <li>Himmel Haus</li>
     <li>McDuff's Pub</li>
