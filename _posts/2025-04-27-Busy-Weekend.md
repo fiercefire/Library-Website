@@ -89,6 +89,7 @@ At the Jackalope Indie Artisan Fair I got a salted pretzel with mustard which wa
     <figcaption>A $5 salted pretzel and dijion mustard obtained at a food stall at the Jackalope Indie Artisan Fair.<br>Source: Me.</figcaption>
   </figure>
 </div>
+
 ---
 <h2>Future Planned Posts</h2>
 
