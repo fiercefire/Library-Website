@@ -10,7 +10,7 @@ repo because the main Github pages repo needs to be kept under 1 Gb. Additionall
 full sized then right-click them and open the image in a new tab. If you really want to see them in their original quality email me and I will share them if I have them. 
 
 Ok now that's out of the way lets blitz through the rest of the updates.
-I am going to be adding the "Chronological" tag to all posts so in the blog archive page there will be a category that has all the post in date order from beginning to end.
+I added the "Chronological" tag to all posts so in the blog archive page there will be a category that has all the post in date order from beginning to end.
 I have updated the blog introduction on the main page to condense it down a bit.
 I have gotten my hands on the Olympus om-1n I ordered and will hopefully resume my library visits soon. So look forwards to those.
 I plan to finish the rest of my library map by the end of the week.
