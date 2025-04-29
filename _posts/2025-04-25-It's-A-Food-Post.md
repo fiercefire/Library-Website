@@ -116,7 +116,7 @@ After I continued on to Now Serving which was only about a 5 minute walk away. I
     <li>La cha cha cha</li>
     <li>Pho 87</li>
     <li>Tam O'Shanter</li>
-    <li>Proff Bakery</li>
+    <li>Proof Bakery</li>
     <li>Costco Food Court</li>
     <li>Himmel Haus</li>
     <li>McDuff's Pub</li>
