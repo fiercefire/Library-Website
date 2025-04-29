@@ -102,7 +102,7 @@ At the Jackalope Indie Artisan Fair I got a salted pretzel with mustard which wa
     <li>La cha cha cha</li>
     <li>Pho 87</li>
     <li>Tam O'Shanter</li>
-    <li>Proff Bakery</li>
+    <li>Proof Bakery</li>
     <li>Costco Food Court</li>
     <li>Himmel Haus</li>
     <li>McDuff's Pub</li>
