@@ -103,6 +103,7 @@ After I continued on to Now Serving which was only about a 5 minute walk away. I
             <figcaption>Interior Photo of Now Serving.<br>Source: <a href="https://www.timeout.com/los-angeles/shopping/now-serving">Time Out</a>, Stephanie Breijo.</figcaption>
       </figure>
 </div>
+
 ---
 <h2>Future Planned Posts</h2>
 
@@ -132,5 +133,6 @@ After I continued on to Now Serving which was only about a 5 minute walk away. I
     <li>Metro Transportation Research Library and Archive</li>
   </ul>
 </div>
+
 ---
 <h2>Change Log</h2>
