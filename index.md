@@ -60,16 +60,14 @@ layout: home
 <p>The main and original purpose was to use this simply as a way to house that map you see embedded above this introduction. As a way to visualize the libraries/archives 
 in California and ones I visit outside of California. Here are some things to expect from my posts:</p>   
 <ul>
-  <li>Everything I put out here will be lazy and sloppy. That includes spelling, grammar, and photo quality (images will be kinda small, right-click and open them in a new tab to see them in full size).</li>
-  <li>If I talk about any history, I will be doing research and trying to make sure everything is right but I will be too lazy to cite anything formally. Feel free to fact-check me if you'd like and email me any errors so I can fix them if you feel strongly enough about it.</li>
-  <li>I will probably be getting a decent SLR 35mm camera to take pictures of the libraries/archives along with anything else noteworthy. I am new to photography so it will be rough but fun to learn.</li>
+  <li>Expect spelling and grammer errors, email me if you want me to fix them.</li>
+  <li>Photos are going to be a little for organization, right-click and open in a new tab to see them full size. If I have them better quality email me and I would be happy to share.</li>
+  <li>I will probably to too lazy to cite anything related to history, if you see any mistakes feel free to email me and correct me.</li>
+  <li>I'm going to be playing around with an Olympus om-1n camera so I will hopefully have some nice photos to share.</li>
   <li>I will be including silly arbitrary ratings for the libraries/archives I visit.</li>
-  <li>I will be taking public transit to pretty much all the locations I visit, so I will probably talk about that a bit in each post.</li>
+  <li>I will be taking public transit to pretty much all the locations I visit, so I will mention it briefly each post.</li>
   <li>I will make sure to update in my blog posts what keyboard I am currently typing on, assuming it changes from my last keyboard update.</li>
-  <li>I might talk about the architecture of the places I visit, I am not very knowledgeable but could be fun to learn on the go.</li>
-  <li>I am very likely to take the opportunity in my blog posts to highlight some history about the libraries/archives I visit.</li>
-  <li>In the future I may include some outstanding food I eat; both in a short blog post and in the central map of the site (all food being grouped in its own layer).</li>
-  <li>Finally, if I go on any major trips, solo or otherwise, I may make a short blog post about them with a bunch of photos. Maybe.</li>
+  <li>Finally, I will occasially make unrelated posts about things I do.</li>
 </ul>
   
 <p>I have to mention the wonderful font you are hopefully seeing. It is called "Gorton Perfected". I have access to this from a KickStarter campaign I backed years ago. I love it and 
