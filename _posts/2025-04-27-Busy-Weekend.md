@@ -117,7 +117,7 @@ At the Jackalope Indie Artisan Fair I got a salted pretzel with mustard which wa
   <ul>
     <li>Alhambra Library</li>
     <li>Metro Transportation Research Library and Archive</li>
-    <li>Pasadena Public Library - Central Library (When it reopens sometime in the far future)</li>
+    <li>Pasadena Public Library- Central Library (When it reopens sometime in the far future)</li>
   </ul>
 </div>
 
