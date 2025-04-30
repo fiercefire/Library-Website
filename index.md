@@ -63,7 +63,6 @@ in California and ones I visit outside of California. Here are some things to ex
   <li>Expect spelling and grammer errors, email me if you want me to fix them.</li>
   <li>Photos are going to be a little for organization, right-click and open in a new tab to see them full size. If I have them better quality email me and I would be happy to share.</li>
   <li>I will probably to too lazy to cite anything related to history, if you see any mistakes feel free to email me and correct me.</li>
-  <li>I'm going to be playing around with an Olympus om-1n camera so I will hopefully have some nice photos to share.</li>
   <li>I will be including silly arbitrary ratings for the libraries/archives I visit.</li>
   <li>I will be taking public transit to pretty much all the locations I visit, so I will mention it briefly each post.</li>
   <li>I will make sure to update in my blog posts what keyboard I am currently typing on, assuming it changes from my last keyboard update.</li>
