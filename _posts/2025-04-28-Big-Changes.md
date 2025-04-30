@@ -13,7 +13,6 @@ Ok now that's out of the way lets blitz through the rest of the updates.
 <ul>
   <li>I added the "Chronological" tag to all posts so in the blog archive page there will be a category that has all the post in date order from beginning to end.</li>
   <li>I have updated the blog introduction on the main page to condense it down a bit.</li>
-  <li>I have gotten my hands on the Olympus om-1n I ordered and will hopefully resume my library visits soon. So look forwards to those.</li>
   <li>I plan to finish the rest of my library map by the end of the week.</li>
   <li>Oh and there will now be a "Planned Posts" and "Changelog" section at the end of each </li>
 </ul>
