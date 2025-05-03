@@ -31,14 +31,6 @@ layout: home
         <td><img src="images/sidebar/question-mark.png" alt="question mark icon" /></td>
         <td>Archive</td>
       </tr>
-      <tr>
-        <td><img src="images/sidebar/pizza.png" alt="pizza icon" /></td>
-        <td>Food</td>
-      </tr>
-      <tr>
-        <td><img src="images/sidebar/heart.png" alt="heart icon" /></td>
-        <td>Misc</td>
-      </tr>
     </table>
     <div class="recent">
     <h3>Recent Posts</h3>
