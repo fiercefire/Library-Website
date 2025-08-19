@@ -14,4 +14,4 @@ Oh and I finally plan on making a library post at some point this week or next w
 ---
 
 <h2>Change Log</h2>
-08-19-25: Removed Future Posts Area, I didn't like how it looked.
+2025-08-19: Removed Future Posts Area, I didn't like how it looked.
