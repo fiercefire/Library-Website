@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Busy Weekend
-tags: [Other, Chronological]
+tags: [Food, Other, Chronological]
 date: 2025-04-27 2:57:00 -800
 ---
 ---
