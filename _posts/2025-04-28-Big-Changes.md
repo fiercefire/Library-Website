@@ -20,7 +20,7 @@ Ok now that's out of the way lets blitz through the rest of the updates.
 ---
 
 <h2>Change Log</h2>
-08-19-25: Removed Future Posts Area, I didn't like how it looked.
+2025-08-19: Removed Future Posts Area, I didn't like how it looked.
 
 
 
