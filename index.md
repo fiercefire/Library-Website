@@ -35,7 +35,7 @@ layout: home
     <div class="recent">
     <h3>Recent Posts</h3>
       <ul class="recent-posts">
-          {% for post in site.posts limit:10 %}
+          {% for post in site.posts limit:5 %}
           <li><a href="{{ post.url | relative_url }}">{{ post.date | date: "%B %d, %Y" }} - {{ post.title }}</a></li>
           {% endfor %}
       </ul>
