@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Progress Baby
-tags: [Site Progress, Chronological]
+tags: [All, Site Progress]
 date: 2025-04-23 19:03:00 -800
 ---
 ---
