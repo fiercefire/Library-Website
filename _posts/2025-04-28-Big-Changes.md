@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Big Changes
-tags: [Site Progress, Chronological]
+tags: [All, Site Progress]
 date: 2025-04-28 08:38:00 -800
 ---
 ---
