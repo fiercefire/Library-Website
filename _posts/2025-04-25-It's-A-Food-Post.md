@@ -1,7 +1,7 @@
 ---
 layout: post
 title: It's A Food Post! (plus a small bonus)
-tags: [Food, Chronological]
+tags: [All, Food]
 date: 2025-04-25 19:12:00 -800
 ---
 ---
