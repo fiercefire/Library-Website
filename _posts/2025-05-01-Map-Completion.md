@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Map Completion 
-tags: [Site Progress, Chronological]
+tags: [All, Site Progress]
 date: 2025-05-01 19:23:00 -800
 ---
 ---
