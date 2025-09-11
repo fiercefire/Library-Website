@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Major Changes on the Home Page"
-tags: [Site Progress, Chronological]
+tags: [All, Site Progress]
 Date: 2025-04-21 21:46:00 -800
 ---
 ---
