@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Quick End of Day Post"
-tag: [Site Progress, Chronological]
+tag: [All, Site Progress]
 date: 2025-04-22 22:30:00-08:00 
 ---
 ---
