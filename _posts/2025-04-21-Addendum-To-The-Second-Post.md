@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Addendum to Second Post"
-tags: [Site Progress, Chronological]
+tags: [All, Site Progress]
 date: 2025-04-21 08:25:00 -800
 ---
 ---
