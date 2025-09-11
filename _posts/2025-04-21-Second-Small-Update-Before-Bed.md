@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Second (small) Update Before Bed"
-tags: [Site Progress, Chronological]
+tags: [All, Site Progress]
 Date: 2025-04-21 02:30:00 -800
 ---
 ---
