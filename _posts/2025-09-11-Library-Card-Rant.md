@@ -19,7 +19,7 @@ So a couple days I was talking to a friend and found out that the Cerritos Libra
 Which is super duper lame of them. I orginally wanted to go visit becuase people were telling how large and pretty it is. And yet they somehow don't want to participate in universal 
 borrowing like other California public libraries? You cannot tell me they don't have enough money. Do they think that people are going to come from afar and steal all the books from
 locals? They even have the audacity to say that non-residents can purchase a card for a $100 A YEAR?!? A Year?!?!? Like wow omg I am so grateful for your generosity City of Cerritos 
-:unamused:. So fuck em I am not visiting out of principal.
+&#128530;. So fuck em I am not visiting out of principal.
 
 <br>
 
