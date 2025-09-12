@@ -2,7 +2,7 @@
 layout: post
 title: Small Library Card Rant
 tags: [All, Site Progress]
-date: 2025-09-12 12:20:00 -800
+date: 2025-09-12 00:00:00 -800
 ---
 ---
 So a couple days I was talking to a friend and found out that the Cerritos Library does not issue free library cards to people who don't meet one of these requirements:
