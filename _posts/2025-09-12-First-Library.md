@@ -2,7 +2,7 @@
 layout: post
 title: First Library Post!
 tags: [All, Library]
-date: 2025-09-12 22:30:00 -800
+date: 2025-09-11 22:30:00 -800
 ---
 ---
 Finally talking about libraries on the site I made to talk about them WOOO! 
