@@ -5,7 +5,8 @@ tags: [All, Library]
 date: 2025-09-11 22:30:00 -800
 ---
 ---
-Finally talking about libraries on the site I made to talk about them WOOO! 
+Finally talking about libraries on the site I made to talk about them WOOO! As a reminder, the images are kinda small in the post. Open the images in a new tab to view them at a 
+full size.
 
 <br>
 
@@ -112,7 +113,7 @@ archives sadly, but we do have the Alhambra Historical Society.
 <div class="image-container">
       <figure>
             <img src="https://raw.githubusercontent.com/fiercefire/Blog-Assets/refs/heads/main/2025-09-12-First-Library/Old%20Alhambra%20Library.webp" alt="Alhambra Library of my memories">
-            <figcaption>This is the library of my memories. I really like how it looks. As you can see I yoiinked this terrible quality image from mapquest because this is the only image I can find. I will change it out for a better photo if I can source one. Maybe I can ask if the Historical Society has one.</figcaption>
+            <figcaption>This is the library of my memories. I really like how it looks (my friend said it reminds them of The Bower Museum). As you can see I yoinked this terrible quality image from mapquest because this is the only image I can find. I will change it out for a better photo if I can source one. Maybe I can ask if the Historical Society has one.</figcaption>
       </figure>
 </div>
 
