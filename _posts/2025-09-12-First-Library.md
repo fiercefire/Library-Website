@@ -140,3 +140,4 @@ stream of consciousness in writing style. I will no doubt be back to make correc
 ---
 <h2>Change Log</h2>
 2025-09-12: Grammer and spelling check. 
+2025-09-13: Added in photo of old library card.
