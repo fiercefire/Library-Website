@@ -15,6 +15,10 @@ full size.
             <img src="https://raw.githubusercontent.com/fiercefire/Blog-Assets/refs/heads/main/2025-09-12-First-Library/IMG_3413.jpeg" alt="Alhambra Library Card">
             <figcaption>My beloved Alhambra Library card. The design is simple and old. The current card design is different now.</figcaption>
       </figure>
+      <figure>
+            <img src="https://raw.githubusercontent.com/fiercefire/Blog-Assets/refs/heads/main/2025-09-12-First-Library/Alhambra%20Library%20Card%20Old.jpeg" alt="Old Alhambra Library Card">
+            <figcaption>Alhambra Library card from the old location, courtesy of my mom.</figcaption>
+      </figure>
 </div>
 
 <br>
