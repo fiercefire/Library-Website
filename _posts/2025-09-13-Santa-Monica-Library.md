@@ -14,8 +14,7 @@ date: 2025-09-13 9:00:00 -800
 
 <br>
 
-Alright, here we are folks, I'm finally getting off my ass and not procrastinating with library posts. Time to talk about my visit to the Santa Monica Public Library on September 11, 
-2025. I'm going to be honest,  I am very tired right now so this will either be a lazy post or half finished and imporoved later.
+Alright, here we are folks, I'm finally getting off my ass and not procrastinating with library posts. Time to talk about my visit to the Santa Monica Public Library on September 11th of 2025. I'm going to be honest, I am very tired right now so this will either be a lazy post or half finished and imporoved later.
 
 <br>
 
