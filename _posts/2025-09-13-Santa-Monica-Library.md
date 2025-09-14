@@ -10,11 +10,12 @@ date: 2025-09-13 9:00:00 -800
             <img src="https://raw.githubusercontent.com/fiercefire/Blog-Assets/refs/heads/main/2025-09-13-Santa-Monica-Library/Santa%20Monica%20Library%20Card.jpeg" alt="Santa Moinca Public Library Card">
             <figcaption>The Santa Monica Public Library card. There was no customization option sadly :(.</figcaption>
       </figure>
-      <figure>
+</div>
+
 <br>
 
-Alright, here we are folks, I'm finally getting off my ass and not procrastinating with library posts. Time to talk about my visit to the Santa Monica Public Library on September 11, 2025.
-I'm going to be honest,  I am very tired right now so this will either be a lazy post or half finished and imporoved later.
+Alright, here we are folks, I'm finally getting off my ass and not procrastinating with library posts. Time to talk about my visit to the Santa Monica Public Library on September 11, 
+2025. I'm going to be honest,  I am very tired right now so this will either be a lazy post or half finished and imporoved later.
 
 <br>
 
@@ -76,7 +77,7 @@ Yes the route bus 4 takes is LOOOOONG, downtown Santa Monica to downtown LA. I w
 ride. The reason I took the bus home instead of the E line was becuase I was tempted to drop by the Beverly Hills Library on the way home but I was too tired and decided against it. And
 thank goodness I did I ended getting home at like 8 PM. Yeesh.
 
-OK will I was so scattered brain while writing this, but too bad that's what you get. Buh Bye/
+OK I was so scattered brain while writing this, but too bad that's what you get. Buh Bye/
 
 ---
 <h2>Change Log</h2>
