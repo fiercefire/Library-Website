@@ -27,7 +27,7 @@ Alright, here we are folks, I'm finally getting off my ass and not procrastinati
 
 <br>
 
-This is the only picutre I took of the outside of the library. The building is quite large but otherwise not all that impressive to me. It was a tiny bit confusing and annoying to get
+This is the only picture I took of the outside of the library. The building is quite large but otherwise not all that impressive to me. It was a tiny bit confusing and annoying to get
 into the library because out of three seperate entrances there was only one open, the north entrance. They must have a lot of trouble at the library because at the north entrance there
 are two security guards stationed. 
 
